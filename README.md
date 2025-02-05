@@ -1,16 +1,7 @@
 ![Header](https://github.com/mayrituals/mayrituals/blob/main/assets/mayrituals%20banner.png)
 
 ## About me
-#### Hey! My name is Ivan and I'm a QA Engineer with a strong interest in the Web3 industry. Skilled in research and English content creation.
-
-
-
-
-
-
-
-
-#### 
+#### Hey! My name is Ivan, and I'm a QA Engineer with a passion for the Web3 industry. Skilled in research and writing content in English.
 
 ## Tools I Use
 
