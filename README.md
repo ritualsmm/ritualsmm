@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/mayrituals/mayrituals/blob/main/assets/mayrituals%20banner.png)
 
 About me
 
