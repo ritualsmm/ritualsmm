@@ -23,3 +23,10 @@
 <div>
 <li><b><a href="https://github.com/mayrituals/git"> Git </a></b>
 <li><b><a href="https://github.com/mayrituals/SQL"> SQL </a></b>
+
+  <h3 align="center"> Connect with me: </h3>
+  <p align="center">
+  <a href= "https://t.me/mayrite"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+  <a href= "https://www.linkedin.com/in/mayrituals/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+  <a href= "mailto:peterpenswagga@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+</p>
