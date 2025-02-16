@@ -23,6 +23,8 @@
 <div>
 <li><b><a href="https://github.com/mayrituals/git"> Git </a></b>
 <li><b><a href="https://github.com/mayrituals/SQL"> SQL </a></b>
+<li><b><a href="https://github.com/mayrituals/Bash"> Bash </a></b>
+</div>
 
   <h3 align="center"> To cooperate: </h3>
   <p align="center">
