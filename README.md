@@ -27,6 +27,6 @@
 
   <h3 align="center"> To cooperate: </h3>
   <p align="center">
-  <a href= "https://t.me/weepingchoirs"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
-  <a href= "mailto:peterpenplugg@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+  <a href= ""><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+  <a href= ""><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p> 
