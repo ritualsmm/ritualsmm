@@ -1,5 +1,3 @@
-![Header](https://github.com/mayrituals/mayrituals/blob/main/assets/mayrituals%20banner.png)
-
 ## About me
 #### Hey! My name is Ivan, and I'm a QA Engineer with a passion for the Web3 industry. Skilled in research and writing content in English.
 
@@ -29,7 +27,6 @@
 
   <h3 align="center"> To cooperate: </h3>
   <p align="center">
-  <a href= "https://t.me/mayrite"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
-  <a href= "https://www.linkedin.com/in/mayrituals/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
-  <a href= "mailto:peterpenswagga@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+  <a href= "https://t.me/weepingchoirs"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+  <a href= "mailto:peterpenplugg@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p> 
