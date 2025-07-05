@@ -24,9 +24,3 @@
 <li><b><a href="https://github.com/mayrituals/SQL"> SQL </a></b>
 <li><b><a href="https://github.com/mayrituals/Bash"> Bash </a></b>
 </div>
-
-  <h3 align="center"> To cooperate: </h3>
-  <p align="center">
-  <a href= ""><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
-  <a href= ""><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
-</p> 
